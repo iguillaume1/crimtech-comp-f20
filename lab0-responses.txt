@@ -1,0 +1,16 @@
+Intro: Responses
+================
+
+D. Install Git
+--------------
+Version: git version 2.24.3 (Apple Git-128)
+
+
+E. Install Python
+-----------------
+Version: Python 3.8.5
+
+
+F. Install pip
+--------------
+Version: pip 20.1.1 from /usr/local/lib/python3.8/site-packages/pip (python 3.8)
